@@ -2,6 +2,8 @@
 
 **Building engineering understanding, one brick at a time.**
 
+![Open Engineering Bricks hero-banner.png](../assets/hero-banner.png)
+
 ## Overview
 
 Open Engineering Bricks provides reusable building blocks for creating digital engineering models.
